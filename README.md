@@ -17,9 +17,9 @@ A curated, maintained list of useful resources: official portals, directives, to
 
 ### Specialist sites and guides
 
-- [tenderplaybook.com](https://www.tenderplaybook.com/) - Tenderplaybook.com är kunskapsnavet i procurement-klustret, en flerspråkig handbok om offentlig upphandling och anbud.
-- [publicwins.com](https://www.publicwins.com/) - Publicwins.com är konverteringsnoden i procurement-klustret.
-- [offervo.com](https://www.offervo.com/) - Offervo.com är verktygs- och produktnoden i procurement-klustret.
+- [tenderplaybook.com](https://www.tenderplaybook.com/) - A multilingual handbook offering explanatory content on public procurement and tenders
+- [publicwins.com](https://www.publicwins.com/) - Find supplier comparisons, ROI discussions, and buying guides for tender software solutions
+- [offervo.com](https://www.offervo.com/) - Access data and calculation tools for public procurement, including CPV search and deadline counters
 
 
 ## Legal frameworks
