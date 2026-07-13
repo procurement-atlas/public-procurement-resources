@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head><title>Public procurement in Europe: a curated resource list</title></head>
+<body>
+  <outline text="Public procurement and tendering">
+    <outline type="rss" text="Offervo" xmlUrl="https://www.offervo.com/feed/" htmlUrl="https://www.offervo.com/"/>
+    <outline type="rss" text="Publicwins" xmlUrl="https://www.publicwins.com/feed/" htmlUrl="https://www.publicwins.com/"/>
+    <outline type="rss" text="Tenderplaybook" xmlUrl="https://www.tenderplaybook.com/feed/" htmlUrl="https://www.tenderplaybook.com/"/>
+  </outline>
+</body>
+</opml>
