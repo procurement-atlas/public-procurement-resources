@@ -1,6 +1,6 @@
 # Public procurement in Europe: a curated resource list
 
-A curated, maintained list of useful resources: official portals, directives, tools and specialist sites worth reading. Updated 2026-07-13. Contributions welcome via pull request.
+A curated, maintained list of useful resources: official portals, directives, tools and specialist sites worth reading. Updated 2026-07-14. Contributions welcome via pull request.
 
 
 ## Public procurement and tendering
