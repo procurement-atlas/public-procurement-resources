@@ -1,6 +1,6 @@
 # Public procurement in Europe: a curated resource list
 
-A curated, maintained list of useful resources: official portals, directives, tools and specialist sites worth reading. Updated 2026-07-14. Contributions welcome via pull request.
+A curated, maintained list of useful resources: official portals, directives, tools and specialist sites worth reading. Updated 2026-07-15. Contributions welcome via pull request.
 
 
 ## Public procurement and tendering
@@ -20,6 +20,8 @@ A curated, maintained list of useful resources: official portals, directives, to
 - [tenderplaybook.com](https://www.tenderplaybook.com/) - A multilingual handbook offering explanatory content on public procurement and tenders
 - [publicwins.com](https://www.publicwins.com/) - Find supplier comparisons, ROI discussions, and buying guides for tender software solutions
 - [offervo.com](https://www.offervo.com/) - Access data and calculation tools for public procurement, including CPV search and deadline counters
+
+*Follow this topic: [daglig digest](https://procurement-atlas.github.io/planet-procurement/) · [Atom-feed](https://procurement-atlas.github.io/planet-procurement/feed.xml)*
 
 
 ## Legal frameworks
